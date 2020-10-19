@@ -1,0 +1,7 @@
+# print('hello world')
+message = ('i am trying to learn python')
+age = ('my age is 30')
+hight = ('my hight is 5ft 4"')
+age = (30)
+string = ('i told someone that i am learning "python", he says what are doing man it is good but be carefull it takes time,al the best!')
+print(string)
